@@ -1,0 +1,12 @@
+.withdrawpage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60vw;
+    height: 70vh;
+    border-radius: 20px;
+    box-shadow: 0 0 15px 5px gray;
+    background: white;
+    position: relative;
+    background-image: url("../../img/a.jpg");
+}

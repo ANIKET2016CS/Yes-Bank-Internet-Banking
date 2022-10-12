@@ -1,0 +1,31 @@
+{
+  "user": [
+    {
+      "userId": "0132CS161030",
+      "userName": "Aniket Abroid",
+      "userPassword": "aniket",
+      "userEmail": "aniket2016cs@gmail.com",
+      "id": 3,
+      "payeeAccountNumber": "33547374204",
+      "yourBalance": "854766"
+    },
+    {
+      "userId": "Amit2k20",
+      "userName": "Amit Kumar",
+      "userPassword": "amit",
+      "userEmail": "amit2k20@gmail.com",
+      "id": 4,
+      "payeeAccountNumber": "8789136974",
+      "yourBalance": "85479"
+    },
+    {
+      "userId": "Anaya85",
+      "userName": "Anaya Jug",
+      "userPassword": "anaya",
+      "userEmail": "anayajug25@gmail.com",
+      "yourBalance": "56789",
+      "payeeAccountNumber": "58963148",
+      "id": 5
+    }
+  ]
+}
